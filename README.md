@@ -1,6 +1,6 @@
 ### Hi there come on👋
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodolfo-code)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatimerodolfo-code)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rodolfo-code/rodolfo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
