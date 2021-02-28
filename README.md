@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolfo-code&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --!>
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
