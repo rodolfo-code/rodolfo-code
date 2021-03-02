@@ -36,5 +36,7 @@
 ---
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="bootstrap" width="40" height="40"/>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank">
+<p align="left">
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40" /><a/>
+
+</p>
