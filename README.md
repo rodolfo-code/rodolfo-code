@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 
 &nbsp;
-<section>
+<div>
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
@@ -28,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I have a degree in civil engineering;
 - 📫 How to reach me: murillo_comino@hotmail.com;
 </div>
-            </section>
+</div>
 
 **Languages and Tools:** 
 
