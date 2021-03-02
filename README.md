@@ -33,10 +33,14 @@
 
 <br>
 
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40" /><a/>
+
 ---
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40" /><a/>
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40"            height="40" /><a/>
+  <a href="" target="_blank"> <img src="" alt="" width="40" height="40" /><a/>
+  
 
 </p>
