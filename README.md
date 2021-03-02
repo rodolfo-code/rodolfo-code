@@ -27,6 +27,9 @@
 <br>
 
 ---
+<a href="https://www.linkedin.com/in/falgunisarkar">
+  <img align="center" alt="Falguni @LinkedIN" width="22px" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
+</a>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
