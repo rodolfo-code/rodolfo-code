@@ -31,9 +31,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 <br> 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
 ---
 <h3 align="left">Languages and Tools:</h3>
 
