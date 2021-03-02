@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
+## Hi, I'm Rodolfo Oliveira, a Developer 🚀 from Brazil.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
