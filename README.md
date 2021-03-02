@@ -32,6 +32,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 
+</br>
+---
 
 <img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
