@@ -23,7 +23,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rodolfo-code93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rodolfo-code&show_icons=true&hide_border=true" />
 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"   alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
