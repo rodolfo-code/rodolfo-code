@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Rodolfo Oliveira, a Developer 🚀 from Brazil.
+## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
@@ -40,11 +40,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"   alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
@@ -57,7 +55,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  
 </p>
 
 <!-- Your hits or visitors
@@ -71,3 +68,33 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
 </p>
 
+## Support me
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
+<p align="center">
+  <a href="https://www.patreon.com/onimur" target="_blank">
+    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
+  </a>
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  </a>
+</p>
+
+---
+
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
+  </a>
+  <a href="https://github.com/onimur/circleci-github-changelog-generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+  </a>
+</p>
+
+<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
+⭐️ From [onimur](https://github.com/onimur)
