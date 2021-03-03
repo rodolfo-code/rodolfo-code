@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
 Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada! 
-<hr>
+
 <img align="right" alt="img" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50%" height="auto" />
 
 
@@ -21,6 +21,9 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
+<br>
+<hr>
+<br>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rodolfo-code&show_icons=true&hide_border=true" />
 
 <p align="left">
