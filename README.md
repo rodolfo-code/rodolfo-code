@@ -5,9 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
-
+Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada! 
+<hr>
 <img align="right" alt="img" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50%" height="auto" />
+
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
@@ -20,10 +21,16 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rodolfo-code&show_icons=true&hide_border=true" />
+<br>
 
+<hr>
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rodolfo-code&show_icons=true&hide_border=true" />
+
+<p >
+	
+#### :computer: Programming languages and tools: 
+	
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"   alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
