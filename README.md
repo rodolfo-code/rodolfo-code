@@ -39,3 +39,11 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
    
    <a href="https://testing-library.com/"><img src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library" width="40" height="40" /></a>
 </p>
+#### :computer: Programming languages and tools:
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="40" height="40"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="40" height="40"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="40" height="40"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="40" height="40"/>
+  height="40"/>
+</p>
