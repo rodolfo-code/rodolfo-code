@@ -13,7 +13,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 #### 🌱 Things I am currently working on: 
 - Finish my web dev full-stack
-- Taking online courses about Data Science and Machine Learning 
+- Taking online courses about Front-end, Back-end and Computer-science
 
 
 #### :muscle: Things I am challenging myself with:
