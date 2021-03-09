@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rodolfovini/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rod.vgo@gmai.com)](mailto:rod.vgo@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada! 
+Welcome to my Github page! I am Rodolfo and I am currently finishing my course Full-stack dev in Trybe! 
 
 <img align="right" alt="img" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50%" height="auto" />
 
