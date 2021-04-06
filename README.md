@@ -13,7 +13,7 @@ Welcome to my Github page! I am Rodolfo and I am currently finishing my course F
 
 #### 🌱 Things I am currently working on: 
 - Finish my web dev full-stack
-- Taking online courses about Front-end, Back-end and Computer-science
+- Taking online courses about Front-end, Back-end and Computer-science.
 
 
 #### :muscle: Things I am challenging myself with:
