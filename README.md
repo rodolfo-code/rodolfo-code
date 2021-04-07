@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### This is Rodolfo Oliveira!
-Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudando para ser um Desenvolvedor Full-Stack Júnior
+Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudando para ser um Desenvolvedor Full-Stack Júnior.</br>
 💼 atualmente estudo na Trybe.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rodolfo-code)
@@ -21,6 +21,7 @@ Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudan
 - Tocar guitarra
 - Pedalar alguns Kms por dia
 - Procurar sempre como desenvolver minha qualidade como desenvolvedor
+- Ler livro e pesquisar sobre autoconhecimento e desenvolvimento pessoal
 
 <br>
 <hr>
