@@ -26,10 +26,6 @@ Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudan
 <br>
 <hr>
 <br>
-<div>
- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rodolfo-code&show_icons=true&hide_border=true" />
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-code&theme=dark">
-</div>
 
 <p align="left">
 	
@@ -53,3 +49,8 @@ Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudan
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="40" height="40"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="40" height="40"/>
 </p>
+
+<div>
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rodolfo-code&show_icons=true&hide_border=true" />
+ <img width="25%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-code&theme=dark">
+</div>
