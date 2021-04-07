@@ -52,8 +52,8 @@ Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudan
 
 <div>
 <!--  <img width="24%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-code&theme=dark"> -->
- <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-code&layout=compact">
- <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=rodolfo-code&show_icons=true&hide_border=false" />	
+ <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-code&layout=compact">
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rodolfo-code&show_icons=true" />	
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)] -->
 
 </div>
