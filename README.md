@@ -50,10 +50,12 @@ Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudan
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="40" height="40"/>
 </p>
 
+<hr>
+
 <div>
 <!--  <img width="24%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-code&theme=dark"> -->
- <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-code&layout=compact">
- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rodolfo-code&show_icons=true" />	
+ <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-code&layout=compact">
+ <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfo-code&show_icons=true" />	
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)] -->
 
 </div>
