@@ -1,5 +1,7 @@
 ### Hi there 👋 
 ### This is Rodolfo Oliveira!
+Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudando para ser um Desenvolvedor Full-Stack Júnior
+💼 atualmente estudo na Trybe.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rodolfo-code)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-oliveira-2501b2148/)
@@ -11,16 +13,16 @@ Welcome to my Github page! I am Rodolfo and I am currently finishing my course F
 <img align="right" alt="img" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my web dev full-stack
-- Taking online courses about Front-end, Back-end and Computer-science.
+#### 👨‍💻 O que estou estudando atualmente: 
+- Em formação no curso de dev full-stack na Trybe
+- Finalizei módulo de front-end
+- Iniciando módulo de back-end
+- Iniciando estudo básico de Python
 
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding every day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+#### 🕹️ Meus hobbies 
+- Tocar guitarra
+- Pedalar alguns Kms por dia
+- Procurar sempre como desenvolver minha qualidade como desenvolvedor
 
 <br>
 <hr>
