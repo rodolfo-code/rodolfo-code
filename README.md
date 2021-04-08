@@ -12,7 +12,7 @@ Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudan
 
 
 #### 👨‍💻 O que estou estudando atualmente: 
-- Em formação no curso de dev full-stack na Trybe
+- Em formação no curso de dev web full-stack na Trybe
 - Finalizei módulo de front-end
 - Iniciando módulo de back-end
 - Iniciando estudo básico de Python
