@@ -37,7 +37,7 @@ Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudan
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
    
-  
+ <a href="https://testing-library.com/"><img src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library" width="40" height="40" /></a>
 	   
 <a href="https://nodejs.org/en/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="javascript" width="40" height="40"/> </a>
