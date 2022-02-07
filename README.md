@@ -45,6 +45,8 @@ Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudan
 <a href="https://expressjs.com/pt-br/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="javascript" width="40" height="40"/> </a>
  
+<a href="https://www.python.org/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 #### :computer: Ferramentas:
