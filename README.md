@@ -19,7 +19,7 @@ Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudan
 
 #### 🕹️ Meus hobbies 
 - Tocar guitarra
-- Pedalar alguns Kms por dia
+- Pedalar alguns Km por dia
 - Procurar sempre como desenvolver minha qualidade como desenvolvedor
 - Ler livro e pesquisar sobre autoconhecimento e desenvolvimento pessoal
 
