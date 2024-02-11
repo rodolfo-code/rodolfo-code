@@ -27,27 +27,60 @@ Olá, me chamo Rodolfo Oliveira, sou de São Vicente - SP, Brasil, estou estudan
 
 <p align="left">
 	
+
+
 #### :computer: Tecnologias: 
 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"   alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-	<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org/" target="_blank"> <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt=redux width="40" height="40"/></a> 
-   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a><a href="https://testing-library.com/"><img src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library" width="40" height="40" /></a> 
-   
- 
-	   
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql-server" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+</a>
+<a href="https://www.w3.org/html/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+</a>
+
+
+<a href="https://redux.js.org/" target="_blank"> 
+  <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+</a>
+<a href="https://getbootstrap.com" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://jestjs.io" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+</a>
+<a href="https://testing-library.com/">
+  <img src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library" width="40" height="40" />
+</a> 
 <a href="https://nodejs.org/en/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/pt-br"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="testing-library" width="40" height="40" /></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://www.mongodb.com/pt-br">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+</a>
 <a href="https://expressjs.com/pt-br/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="javascript" width="40" height="40"/> </a>
- 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+</a>
 <a href="https://www.python.org/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+
 </p>
+
 
 #### :computer: Ferramentas:
 
