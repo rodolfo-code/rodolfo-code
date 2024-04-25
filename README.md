@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with other web developers
 - 💬 Ask me about anything at all!
 - 📫 Say Hi via [rod.vgo@gmail.com](mailto:rod.vgo@gmail.com)
-- ⚡ Fun fact: I try to avoid building backends and use SaaS instead.
 
 ### Languages and Tools
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="26px"/></code>
