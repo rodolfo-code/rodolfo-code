@@ -25,9 +25,9 @@
 
 ### Get in touch
 
-<code><a href="https://devrodolfooliveira.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=spond&logoColor=white" alt="website" /></a></code>
-<code><a href="https://www.linkedin.com/in/oliveira-rodolfo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a></code>
-<code><a href="https://twitter.com/RodolfoVinici20"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a></code>
+<code><a target="_blank" href="https://devrodolfooliveira.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=spond&logoColor=white" alt="website" /></a></code>
+<code><a target="_blank" href="https://www.linkedin.com/in/oliveira-rodolfo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a></code>
+<code><a target="_blank" href="https://twitter.com/RodolfoVinici20"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a></code>
 
 <hr>
 
